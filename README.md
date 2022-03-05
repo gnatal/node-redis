@@ -1,2 +1,1 @@
-# express-ts-template
-A express template for typescript with ESlint and prettier
+#A basic example of how to use redis as cache
